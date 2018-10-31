@@ -29,7 +29,7 @@ abline(simp.2, col="red")
 
 ---
 
-![alt text] (https://github.com/ntug/mlr-r/blob/master/README_figs/README-unnamed-chunk-3-1.png)
+![alt text](https://github.com/ntug/mlr-r/blob/master/README_figs/README-unnamed-chunk-3-1.png)
 
 This model tells us that the predicted `total` will decrease by 5.5 for every one thousand dollar increase in `salary`. An R-squared of 0.1935 is small so the model doesn't explain most of the variation in the SAT scores around the mean. This is also supported by looking at the graph - the model doesn't seem to fit the data.
 
